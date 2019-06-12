@@ -7,13 +7,19 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@capacitor/android": "^1.0.0",
+    "@capacitor/core": "^1.0.0",
+    "@ionic-native/barcode-scanner": "^5.6.1",
+    "@ionic-native/core": "^5.6.1",
     "core-js": "^2.6.5",
+    "phonegap-plugin-barcodescanner": "^8.0.1",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
+    "@capacitor/cli": "^1.0.0",
     "@vue/cli-plugin-babel": "^3.8.0",
     "@vue/cli-plugin-pwa": "^3.8.0",
     "@vue/cli-service": "^3.8.0",
