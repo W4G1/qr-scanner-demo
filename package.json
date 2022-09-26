@@ -19,7 +19,7 @@
     "vuex": "^3.0.1"
   },
   "devDependencies": {
-    "@capacitor/cli": "^1.0.0",
+    "@capacitor/cli": "^1.5.3",
     "@vue/cli-plugin-babel": "^3.8.0",
     "@vue/cli-plugin-pwa": "^3.8.0",
     "@vue/cli-service": "^3.8.0",
